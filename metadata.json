@@ -1,0 +1,6 @@
+{
+  "name": "Blue Square Interiors",
+  "description": "Premium luxury interior design studio in Melparamba, Kalnad, Kerala. Award-winning custom residential and commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
